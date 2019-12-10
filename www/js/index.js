@@ -18,7 +18,7 @@
  */
 
 // Pages starting with this URL are opened within the app, others in the system web browser (include any trailing slash!)
-var LANDING_URL= "https://thequestionmark.github.io/cordova-web-wrap/";
+var LANDING_URL= "http://www.hrapp.co.in/appmanager/mobilemanager/";
 // URLs listed here open in the app, others in the system web browser.
 // Both absolute and host-relative URLs (with respect to LANDING_URL) are allowed.
 // The URL on test includes a leading slash, but does not include query string or hash.
